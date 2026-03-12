@@ -1,0 +1,8 @@
+{
+  "name": "SSRN PDF Downloader",
+  "description": "Download SSRN paper PDFs that are protected by Cloudflare and SSRN's browser-based download flow. Use when a user shares an SSRN abstract page or Delivery.cfm link and wants the actual PDF saved locally for reading, summarizing, or forwarding.",
+  "version": "1.0.0",
+  "identifier": "ssrn-pdf-downloader",
+  "author": "hyuan2021",
+  "category": "research"
+}
